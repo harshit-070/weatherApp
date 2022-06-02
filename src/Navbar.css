@@ -1,0 +1,19 @@
+.navbar {
+  display: flex;
+  justify-content: flex-end;
+  width: 100%;
+  color: white;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 5px;
+}
+
+.navbar-button {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  padding: 8px;
+}
